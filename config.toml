@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = https://susurant.github.io/kaitlin_portfolio.io
+baseURL = "https://susurant.github.io/kaitlin_portfolio.io"
 languageCode = "en-us"
 theme = "ananke"
 #resourceDir = "../resources"
