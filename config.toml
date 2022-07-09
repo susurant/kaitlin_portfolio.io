@@ -3,7 +3,7 @@ baseURL = "https://susurant.github.io/kaitlin_portfolio.io/"
 languageCode = "en-us"
 theme = "ananke"
 #resourceDir = "../resources"
-canonifyurls = true
+#canonifyurls = true
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
